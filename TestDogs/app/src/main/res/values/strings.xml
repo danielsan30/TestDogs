@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestDogs</string>
+
+    <string name="bar_title">Dogs We Love</string>
+    <string name="label_age">Almost %1$d years</string>
+    <string name="about">Daniel Sánchez León</string>
+
+</resources>
